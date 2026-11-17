@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /contacto/enviar.php
+
+Sitemap: https://lourdesrugbyclub.com/sitemap.xml

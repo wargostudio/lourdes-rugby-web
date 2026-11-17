@@ -1,0 +1,219 @@
+{
+ "pelota-en-alto": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "entrada-en-calor": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "barro": {
+  "w": 800,
+  "h": 800,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "equipo-cesped": {
+  "w": 800,
+  "h": 800,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "cinco-abrazados": {
+  "w": 1080,
+  "h": 809,
+  "widths": [
+   480,
+   800,
+   1080
+  ]
+ },
+ "seis-en-la-tierra": {
+  "w": 800,
+  "h": 800,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "tres-pelotas": {
+  "w": 800,
+  "h": 1000,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "ronda-encuentro": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "equipo-encuentro": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "abrazo-en-la-tierra": {
+  "w": 800,
+  "h": 800,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "yo-quiero-mi-cancha": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "cuatro-abrazados": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "entrenamiento": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "nene-pelota": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "ronda-cerrada": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "ronda-abrazados": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   480,
+   1000
+  ]
+ },
+ "sonrisas": {
+  "w": 1500,
+  "h": 540,
+  "widths": [
+   800,
+   1500
+  ]
+ },
+ "charla-entrenador": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "equipo-palos": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "charla-ronda": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "foto-grupal": {
+  "w": 300,
+  "h": 199,
+  "widths": [
+   300
+  ]
+ },
+ "espaldas-44-35": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "espaldas-26-41": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "ronda-tierra": {
+  "w": 300,
+  "h": 250,
+  "widths": [
+   300
+  ]
+ },
+ "espaldas-26": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "ronda-amarilla": {
+  "w": 300,
+  "h": 400,
+  "widths": [
+   300
+  ]
+ },
+ "banda-entrenamiento": {
+  "w": 1600,
+  "h": 960,
+  "widths": [
+   800,
+   1400,
+   1600
+  ]
+ },
+ "banda-ronda": {
+  "w": 1000,
+  "h": 600,
+  "widths": [
+   800,
+   1000
+  ]
+ }
+}
